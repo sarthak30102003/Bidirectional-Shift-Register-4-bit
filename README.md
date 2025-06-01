@@ -60,9 +60,9 @@ Shift bits right and insert serial_in_right at MSB
 2. Set the testbench as the top module for simulation.
 3. Run simulation to verify behavior.
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-> You can add waveform screenshots or Logisim circuit images here.
+![](Bidirectional_Shift_Register/outputs_pdf/image.png)
 
 ## 🤝 Contribution
 
